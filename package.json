@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "arrivals": "^2.0.2",
-    "artillery-core": "4.6.1",
+    "artillery-core": "git://github.com/theappraisallane/artillery-core.git#42f331a",
     "artillery-plugin-statsd": "^2.2.0",
     "async": "1.5.2",
     "chalk": "1.1.3",
